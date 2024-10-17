@@ -40,7 +40,7 @@
 
 ### 📊 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=swethaselvamurugan&show_icons=true&theme=radical)
+![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethaselvamurugan&theme=dark&show_icons=true&&hide=issues,contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swethaselvamurugan&layout=compact&theme=radical)
 
 ---
