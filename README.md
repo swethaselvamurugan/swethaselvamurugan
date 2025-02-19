@@ -31,16 +31,44 @@
 ---
 
 ### 📘 **Highlighted Projects**
-- **[Actodo](https://actodo-black-rho.vercel.app/)**  
-  Developed a full-stack task management application with user authentication using React.
+- **[QuickCart](https://quickcart-1-myul.onrender.com)**  
+  Developed a full-fledged MERN-stack e-commerce platform with admin and customer views, secure role-based authentication, payment processing, and cloud storage for product images. The project is designed to handle both the frontend and backend seamlessly for a complete shopping experience.
   
-- **[Nostra](https://swethaselvamurugan.github.io/Nostra/)**  
-   Developed a responsive e-commerce platform using HTML, CSS, and JavaScript.
+- **[Bulkmail](https://bulkmail-1-swa9.onrender.com)**  
+  Developed a MERN-stack app that integrates Nodemailer to send bulk emails to recipients listed in an Excel sheet. This tool automates email campaigns and makes managing communications easier.
 
 ---
 
-### 📊 **GitHub Stats**
-![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethaselvamurugan&theme=dark&show_icons=true&&hide=issues,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swethaselvamurugan&layout=compact&theme=radical)
+### 📊 **GitHub Stats**    
+
+<table>
+  <tr>
+    <td align="center"><b>🏆 Overall GitHub Performance</b></td>
+    <td align="center"><b>🔥 Most Used Languages</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=swethaselvamurugan&theme=dark&show_icons=true&&hide=issues,contribs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethaselvamurugan&layout=compact&langs_count=10&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📌 Profile Summary</b></td>
+    <td align="center"><b>📅 Commit Activity</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swethaselvamurugan&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swethaselvamurugan&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+#### 📈 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swethaselvamurugan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&hide_border=true)  
 
 ---
