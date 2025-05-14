@@ -34,8 +34,8 @@
 - **[QuickCart](https://quickcart-1-myul.onrender.com)**  
   Developed a full-fledged MERN-stack e-commerce platform with admin and customer views, secure role-based authentication, payment processing, and cloud storage for product images. The project is designed to handle both the frontend and backend seamlessly for a complete shopping experience.
   
-- **[Bulkmail](https://bulkmail-1-swa9.onrender.com)**  
-  Developed a MERN-stack app that integrates Nodemailer to send bulk emails to recipients listed in an Excel sheet. This tool automates email campaigns and makes managing communications easier.
+- **[Blog Website](https://blog-website-1-baz0.onrender.com/)**  
+  Created a secure blogging platform with role-based access control, restricting posting access to designated users. Integrated Firebase authentication to enhance security and user experience.
 
 ---
 
