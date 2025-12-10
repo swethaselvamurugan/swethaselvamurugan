@@ -5,7 +5,7 @@
 ---
 
 ### 👩‍💻 **About Me**
-- 🎓 Pre-final year IT student at Jeppiaar Engineering College.
+- 🎓 Final year IT student at Jeppiaar Engineering College.
 - 💻 Specializing in **MERN Stack** (MongoDB, Express, React, Node.js) with a passion for full-stack web development.
 - 👩‍💼 Completed an internship at Code Hydride, developing skills in **Asana**, **Shadcn**, **TypeScript**, and working on **client projects**.
 - 🛠 Currently expanding my knowledge in **DSA**.
@@ -32,7 +32,7 @@
 
 ### 📘 **Highlighted Projects**
 - **[QuickCart](https://quickcart-1-myul.onrender.com)**  
-  Developed a full-fledged MERN-stack e-commerce platform with admin and customer views, secure role-based authentication, payment processing, and cloud storage for product images. The project is designed to handle both the frontend and backend seamlessly for a complete shopping experience.
+  Built a full-stack MERN e-commerce platform with integrated admin and shopping panels, JWT authentication, reusable components, Redux Toolkit, CRUD operations and complete API integration. Applied end-to-end development practices for a seamless and reliable shopping experience.
   
 - **[Blog Website](https://blog-website-1-baz0.onrender.com/)**  
   Created a secure blogging platform with role-based access control, restricting posting access to designated users. Integrated Firebase authentication to enhance security and user experience.
@@ -48,10 +48,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=swethaselvamurugan&theme=dark&show_icons=true&&hide=issues,contribs" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=swethaselvamurugan&theme=dark&show_icons=true&hide=issues,contribs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethaselvamurugan&layout=compact&langs_count=10&theme=radical" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swethaselvamurugan&layout=compact&langs_count=10&theme=radical" />
     </td>
   </tr>
   <tr>
